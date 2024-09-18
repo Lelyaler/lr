@@ -1,5 +1,3 @@
-# Landing Page for a Client
-
 This project is a completed landing page that I developed using HTML, CSS, and JavaScript, and integrated with WordPress. During the process, I created a custom WordPress theme tailored for easy content management through the admin panel. I also implemented PHP hooks to customize and extend the functionality of the WordPress theme, enhancing its capabilities and integration with WordPress features.
 
 ## Website Link:
@@ -19,8 +17,6 @@ This project is a completed landing page that I developed using HTML, CSS, and J
 - **Contact Form Integration**: A fully functional contact form for receiving messages via Contact Form 7.
 - **PHP Hooks**: Used PHP hooks to extend and customize the functionality of the WordPress theme, enhancing its capabilities and integrating with WordPress features.
 
-
-# Лендинг для клиента
 
 Этот проект представляет собой готовый лендинг, который я разработала с использованием HTML, CSS и JavaScript, а также интегрировала с WordPress. В процессе работы я создала кастомную тему для WordPress, адаптированную для удобного управления контентом через админ-панель. Я также использовала PHP хуки для кастомизации и расширения функциональности темы WordPress, что позволило внедрить более продвинутые функции и улучшить интеграцию с возможностями WordPress.
 
